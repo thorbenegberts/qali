@@ -17,5 +17,5 @@ QALI has no official UI yet. However, it will be done in another project. By bui
 QALI is build using [Flask RESTful](https://github.com/flask-restful/flask-restful). To run locally run:
 
 ```
-python api.py
+python qali/app.py
 ```
