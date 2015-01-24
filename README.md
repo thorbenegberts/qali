@@ -1,6 +1,6 @@
 # QALI
 
-QALI is a user driven Q&amp;A and learning interface. QALI means: **Q**uestion **A**nswer **L**earning **I**nterface. It is not meant to be just another Q&A database. People should be able to create their own content and be actively guided to learn new things. QALI will not just give people answers, but will build a bridge between the known and the unknown by giving you recommendations.
+QALI is a Q&amp;A and learning platform for user-generated content. QALI stands for: **Q**uestion **A**nswer **L**earning **I**nterface. It is not meant to be just another Q&A platform. People should be able to create their own content and be actively guided to learn new things, together. QALI will not just give people answers, but can build the bridge between the known and the unknown by giving recommendations.
 
 Work on QALI is just starting. Stay tuned :-)
 
