@@ -18,7 +18,7 @@ def abort_if_question_doesnt_exist(question_id):
 parser = reqparse.RequestParser()
 parser.add_argument('question', type=str)
 
-
+# TODO move to resources as own file
 # Question
 #   show a single question item and lets you delete them
 class Question(Resource):
@@ -38,6 +38,7 @@ class Question(Resource):
         return task, 201
 
 
+# TODO move to resources as own file
 # QuestionList
 #   shows a list of all questions, and lets you POST to add new questions
 class QuestionList(Resource):
