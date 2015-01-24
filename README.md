@@ -11,3 +11,11 @@ QALI is mainly a RESTful API for adding, reading and removing questions. A docum
 ## UI
 
 QALI has no official UI yet. However, it will be done in another project. By building the API first, we separate the service from any UI. Doing so, people will be able to build their own UI, plugins for other applications like Confluence or even build their own services on top of it.
+
+## Setup
+
+QALI is build using [Flask RESTful](https://github.com/flask-restful/flask-restful). To run locally run:
+
+```
+python api.py
+```
