@@ -1,1 +1,1 @@
-web: gunicorn qali.app:qali
+web: gunicorn qali.app:app

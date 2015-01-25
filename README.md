@@ -31,3 +31,11 @@ foreman start web
 ```
 
 Note that `foreman` is part of the [Heroku Toolbelt](https://toolbelt.heroku.com/).
+
+Now open
+
+```
+localhost:5000
+```
+
+in your browser.
