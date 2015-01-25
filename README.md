@@ -14,8 +14,20 @@ QALI has no official UI yet. However, it will be done in another project. By bui
 
 ## Setup
 
-QALI is build using [Flask RESTful](https://github.com/flask-restful/flask-restful). To run locally run:
+QALI is build with Python. Mainly the [Flask RESTful](https://github.com/flask-restful/flask-restful). package is used.
+
+To setup, run:
 
 ```
-python qali/app.py
+sh setup.sh
 ```
+
+## Run Locally
+
+To run locally, run:
+
+```
+foreman start web
+```
+
+Note that `foreman` is part of the [Heroku Toolbelt](https://toolbelt.heroku.com/).
