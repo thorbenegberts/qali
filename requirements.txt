@@ -61,4 +61,4 @@ Twisted==13.2.0
 Werkzeug==0.9.6
 xattr==0.6.4
 zope.interface==4.1.1
-gunicorn=19.1.1
+gunicorn==19.1.1
